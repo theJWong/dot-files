@@ -1,0 +1,15 @@
+if has("autocmd")
+    autocmd BufReadPost *
+    \ if line("\'") > 0 && line("\'") <= line("$") |
+        \ exe "normal g`" |
+    \ endif
+endif
+
+set expandtab
+set tabstop=2
+set shiftwidth=2
+set autoindent
+set nu
+syntax on
+autocmd BufNewFile,BufRead *.pp set syntax=ruby
+colorscheme delek

@@ -1766,7 +1766,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/jwong</string>
+			<string>/Users/jerry</string>
 		</dict>
 	</array>
 	<key>NoSyncAllAppVersions</key>
@@ -2669,7 +2669,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/jwong/workspace/dot-files/iterm2</string>
+	<string>/Users/jerry/workspace/dot-files/iterm2</string>
 	<key>Print In Black And White</key>
 	<true/>
 	<key>PromptOnQuit</key>
